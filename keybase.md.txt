@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am khariszone on github.
+  * I am khariszone (https://keybase.io/khariszone) on keybase.
+  * I have a public key ASA5UdiiM6EIWT7PajF7Li1PgZ8Q0mP9IofjHDls2yLwNwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203951d8a233a108593ecf6a317b2e2d4f819f10d263fd2287e31c396cdb22f0370a",
+      "host": "keybase.io",
+      "kid": "01203951d8a233a108593ecf6a317b2e2d4f819f10d263fd2287e31c396cdb22f0370a",
+      "uid": "ce1a729137c9b299340642b581573619",
+      "username": "khariszone"
+    },
+    "merkle_root": {
+      "ctime": 1568457656,
+      "hash": "77b28c3966ee7cf30ff9ccabc8d43b57b59954ce7c625ae9e3482cfcc2432c11ff6fbfd73003859342b9e3037b33c9c4640f24a8a781d368d8aecee6c5e7c27f",
+      "hash_meta": "c54e945012d05a3893219c30f6bd4d0644fe5fbf5fdb8439d829439a4e45aed2",
+      "seqno": 7289745
+    },
+    "service": {
+      "entropy": "0kMlMuTLLqZ6qAo8QrP2MhB9",
+      "name": "github",
+      "username": "khariszone"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568457663,
+  "expire_in": 504576000,
+  "prev": "261ad012189580fa7005098fbe9cb048bae5a45a399410fe20475991472c84db",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASA5UdiiM6EIWT7PajF7Li1PgZ8Q0mP9IofjHDls2yLwNwo](https://keybase.io/khariszone), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOVHYojOhCFk+z2oxey4tT4GfENJj/SKH4xw5bNsi8DcKp3BheWxvYWTESpcCCsQgJhrQEhiVgPpwBQmPvpywSLrlpFo5lBD+IEdZkUcshNvEIONz/C5nTI4L/EJi8/oJGrI0lZbYCxG/svQsNLGnd8k+AgHCo3NpZ8RA/6fVjaZiH9qej0XvRIAtd6L6AdEQWWNKI+rJWwpS5gBlJJTCPzRRfumnpjYa2DBSdAiudspmDOV0Z9rsna10CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMfLFrMQk7qMEd6qyeC6yeA5LiQVrSqNeAzv7BtXJ8dho3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/khariszone
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id khariszone
+```
